@@ -26,7 +26,7 @@ Program ini dirancang untuk mempermudah proses pemesanan tiket kereta api secara
 3. **Jalankan program:**  
    Untuk memulai, jalankan file utama:  
    ```bash
-   python main.py
+   python tikerkereta.py
    ```  
 
 ### Catatan  
